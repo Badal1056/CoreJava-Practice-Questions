@@ -14,6 +14,5 @@ The project is structured as follows:
 
 ## How to Run
 1. Clone this repository to your local machine using the following command:
-   
--- bash
+
 git clone https://github.com/Badal1056/CoreJava-Practice-Questions.git
